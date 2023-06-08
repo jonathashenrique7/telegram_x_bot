@@ -1,7 +1,7 @@
 #   1 > Crie um arquivo chamado ".env" onde você informará seu Token pessoal do Telegram e também a chave para sua conta na "Stripe" ( Caso utilize esta plataforma de pagamentos! )
 #   2 > Crie variáveis no arquivo ".env" com os mesmos nomes informados nas funções "config()" 
-#   3 > Informe o token do telegram: TOKEN_BOT=''
-#   4 > Informe também a chave para pagamentos de sua plataforma de escolha: TOKEN_PROVIDER='' 
+#   3 > Informe no arquivo ".env" o token do telegram: TOKEN_BOT=''
+#   4 > Informe também no arquivo ".env" a chave para pagamentos de sua plataforma de escolha: TOKEN_PROVIDER='' 
 #   5 > Não se esqueça de configurar uma imagem para o produto vendido na função "comprar()": IMG_PRODUTO=
 #   6 > Instale as bibliotecas para que o código funcione apropriadamente ... 
 
